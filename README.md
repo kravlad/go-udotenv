@@ -27,7 +27,7 @@ To use `udotEnvType` with the default configuration:
 package main
 
 import (
-    "github.com/kravlad/udotEnv"
+    "github.com/kravlad/go-udotenv"
 )
 
 func main() {
@@ -43,7 +43,7 @@ You can provide a custom configuration to override the default settings:
 package main
 
 import (
-    "github.com/kravlad/udotEnv"
+    "github.com/kravlad/go-udotenv"
 )
 
 func main() {
@@ -79,7 +79,7 @@ The default configuration includes:
 package main
 
 import (
-    "github.com/kravlad/udotEnvType"
+    "github.com/kravlad/go-udotenv"
 )
 
 func main() {
