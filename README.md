@@ -14,7 +14,7 @@
 To use `udotEnv` in your project, add it to your `go.mod` file:
 
 ```bash
-go get github.com/kravlad/udotEnv
+go get github.com/kravlad/go-udotenv@v0.1.2
 ```
 
 ## Usage
